@@ -6,6 +6,6 @@
 - Apaixonado por games, design e programação 🎮 
 ---
 
-- Focado em ReactJS! ⌨ 
+- Focado em ReactJS! ⚛
 
 
