@@ -1,7 +1,9 @@
 ### Hey 👋
 
-- 📂 Atualmente estudante de desenvolvimento web com foco no front-end!
-- 🚀 Buscando evoluir e crescer!
-- 🎮 Apaixonado por games e programação 
+---
+- Atualmente estudante de desenvolvimento web com foco no front-end!  📂 
+- Buscando evoluir e crescer! 🚀 
+- Apaixonado por games, design e programação 🎮 
+---
 
-- ⌨ HTML, CSS, Javascript, ReactJS
+- Focado em ReactJS! ⌨
