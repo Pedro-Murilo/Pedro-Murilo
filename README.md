@@ -1,12 +1,11 @@
 
 ### Hey 👋
 ---
-- Atualmente estou com foco no front-end!  📂 
-- Buscando evoluir e crescer! 🚀 
-- Apaixonado por games, design e programação 🎮 
-- Estudando a stack do ReactJS (Redux, NextJS e Typescript) ✨
+- I'm currently studying front-end!  📂 
+- Programing, design and games! 🎮 
+- Studying ReactJS stack (Redux, NextJS e Typescript) ✨
 ---
 
-- Focado em ReactJS e Typescript! ⚛
+- I am focused on ReactJS e Typescript! ⚛
 
 
