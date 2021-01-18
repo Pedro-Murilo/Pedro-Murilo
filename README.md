@@ -27,6 +27,10 @@
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </a>
+<a href="https://github.com/Pedro-Murilo/">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
+
 
 > Studying 📒
 <a href="https://github.com/Pedro-Murilo/">
