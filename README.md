@@ -13,7 +13,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
 <a href="https://github.com/Pedro-Murilo/">
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -30,7 +30,12 @@
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </a>
-
+<a href="https://github.com/Pedro-Murilo/">
+  <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+</a>
+<a href="https://github.com/Pedro-Murilo/">
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+</a>
 
 > Studying 📒
 <a href="https://github.com/Pedro-Murilo/">
@@ -40,7 +45,7 @@
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
 <a href="https://github.com/Pedro-Murilo/">
-  <img alt="Next" src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next-dot-js&logoColor=black"/>
+  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </a>
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
