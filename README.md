@@ -1,5 +1,5 @@
 
-### Hey, I'm Pedro 👋
+## Hey, I'm Pedro 👋
 ---
 - I'm currently studying front-end!  📂 
 - Programing, design and games! 🎮  
