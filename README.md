@@ -58,7 +58,7 @@
 </a>
 
 ---
->### Studying 📒
+>### 📒 Studying
 <a href="https://github.com/Pedro-Murilo/"> 
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
