@@ -5,7 +5,7 @@
 - Programing, design and games! 🎮  
 ---
 
-> Languages / Frameworks ✨
+> ✨ Languages / Frameworks 
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
@@ -15,9 +15,8 @@
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </a> 
----
 
-> Styles / Frameworks
+> 🌟 Styles / Frameworks
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
@@ -33,10 +32,9 @@
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </a>
----
 
 ---
-> Tools and Others
+> ⚙ Tools and Others
 
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
@@ -57,7 +55,6 @@
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </a>
----
 
 > Studying 📒
 <a href="https://github.com/Pedro-Murilo/"> 
