@@ -16,6 +16,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </a> 
 
+---
 > 🌟 Styles / Frameworks
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -56,6 +57,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </a>
 
+---
 > Studying 📒
 <a href="https://github.com/Pedro-Murilo/"> 
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
