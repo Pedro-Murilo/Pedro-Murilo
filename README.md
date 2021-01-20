@@ -1,11 +1,11 @@
 
-## Hey, I'm Pedro 👋
+## **Hey, I'm Pedro** 👋
 ---
-- I'm currently studying front-end!  📂 
-- Programing, design and games! 🎮  
+- _I'm currently studying front-end!_  📂 
+- _Programing, design and games!_ 🎮  
 ---
 
->### ☄ Languages / Frameworks 
+>### ☄ Languages / Frameworks
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
