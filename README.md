@@ -35,7 +35,7 @@
 </a>
 
 ---
->### ⚙ Tools and Others
+>### ⚙ Tools & Others
 
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
