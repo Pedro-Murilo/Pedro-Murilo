@@ -1,6 +1,5 @@
-
 ## **Hey, I'm Pedro** 👋
----
+
 - _I'm currently studying front-end!_  📂 
 - _Programing, design and games!_ 🎮  
 ---
