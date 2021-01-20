@@ -5,7 +5,7 @@
 - Programing, design and games! 🎮  
 ---
 
-> ✨ Languages / Frameworks 
+>### ✨ Languages / Frameworks 
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
@@ -17,7 +17,7 @@
  </a> 
 
 ---
-> 🌟 Styles / Frameworks
+>### 🌟 Styles / Frameworks
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
@@ -35,7 +35,7 @@
 </a>
 
 ---
-> ⚙ Tools and Others
+>### ⚙ Tools and Others
 
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
@@ -58,7 +58,7 @@
 </a>
 
 ---
-> Studying 📒
+>### Studying 📒
 <a href="https://github.com/Pedro-Murilo/"> 
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
