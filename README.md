@@ -70,5 +70,9 @@
 
 ---
 >### ⭐ Github Stats
-![Pedro Murilo github stats](https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=DEG,222,B22222&text_color=000&title_color=FF8C00&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=350)](https://github.com/Pedro-Murilo/github-readme-stats)
+<a href="https://github.com/Pedro-Murilo/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=DEG,222,B22222&text_color=000&title_color=FF8C00&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues" alt="Github Stats Pedro-Murilo" />
+</a>
+<a href="https://github.com/Pedro-Murilo/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-   Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=350" alt="Top Languages Pedro-Murilo" />
+</a>
