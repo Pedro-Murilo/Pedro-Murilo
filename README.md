@@ -1,7 +1,6 @@
 <h1 align="center"><strong>𝐻𝑒𝑦, 𝐼'𝑚 𝒫𝑒𝑑𝑟𝑜!</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p align="center"><strong>𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝑓𝑟𝑜𝑛𝑡-𝑒𝑛𝑑! 📂</strong></p>
-<p align="center"><strong>𝒫𝑟𝑜𝑔𝑟𝑎𝑚𝑖𝑛𝑔, 𝑑𝑒𝑠𝑖𝑔𝑛 𝑎𝑛𝑑 𝑔𝑎𝑚𝑒𝑠! 🎮</strong></p>
+<h2 align="center"><strong>𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝑓𝑟𝑜𝑛𝑡-𝑒𝑛𝑑! 📂 </br> 𝒫𝑟𝑜𝑔𝑟𝑎𝑚𝑖𝑛𝑔, 𝑑𝑒𝑠𝑖𝑔𝑛 𝑎𝑛𝑑 𝑔𝑎𝑚𝑒𝑠! 🎮</strong></h2>
 
 ---
 >### ☄ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠
