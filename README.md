@@ -1,10 +1,10 @@
-## **Hey, I'm Pedro** 👋
+## **𝐻𝑒𝑦, 𝐼'𝑚 𝒫𝑒𝑑𝑟𝑜!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- _I'm currently studying front-end!_  📂 
-- _Programing, design and games!_ 🎮  
+- **𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝑓𝑟𝑜𝑛𝑡-𝑒𝑛𝑑!**  📂 
+- **𝒫𝑟𝑜𝑔𝑟𝑎𝑚𝑖𝑛𝑔, 𝑑𝑒𝑠𝑖𝑔𝑛 𝑎𝑛𝑑 𝑔𝑎𝑚𝑒𝑠!** 🎮  
 ---
 
->### ☄ Languages / Frameworks
+>### ☄ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
@@ -16,7 +16,7 @@
  </a> 
 
 ---
->### ✨ Styles / Frameworks
+>### ✨ 𝑆𝑡𝑦𝑙𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
@@ -30,11 +30,15 @@
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
+   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=000" />
+</a>
+
+<a href="https://github.com/Pedro-Murilo/">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </a>
 
 ---
->### ⚙ Tools & Others
+>### ⚙ 𝑇𝑜𝑜𝑙𝑠 & 𝑂𝑡ℎ𝑒𝑟𝑠
 
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
@@ -57,7 +61,7 @@
 </a>
 
 ---
->### 📒 Studying
+>### 📒 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔
 <a href="https://github.com/Pedro-Murilo/"> 
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
@@ -69,7 +73,7 @@
 </a>
 
 ---
->### ⭐ Github Stats
+>### ⭐ 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠
 <a href="https://github.com/Pedro-Murilo/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=DEG,222,B22222&text_color=000&title_color=FF8C00&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues" alt="Github Stats Pedro-Murilo" />
 </a>
