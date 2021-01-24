@@ -2,7 +2,6 @@
 
 <h2 align="center"><strong>𝐼'𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔 𝑓𝑟𝑜𝑛𝑡-𝑒𝑛𝑑! 📂 </br> 𝒫𝑟𝑜𝑔𝑟𝑎𝑚𝑖𝑛𝑔, 𝑑𝑒𝑠𝑖𝑔𝑛 𝑎𝑛𝑑 𝑔𝑎𝑚𝑒𝑠! 🎮</strong></h2>
 
----
 >### ☄ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
