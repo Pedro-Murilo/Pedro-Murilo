@@ -66,6 +66,10 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </a>
 
+<a href="https://github.com/Pedro-Murilo/">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+
 ---
 >### 📒 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔
 <a href="https://github.com/Pedro-Murilo/"> 
