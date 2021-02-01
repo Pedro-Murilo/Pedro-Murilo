@@ -39,10 +39,6 @@
 >### ⚙ 𝑇𝑜𝑜𝑙𝑠 & 𝑂𝑡ℎ𝑒𝑟𝑠
 
 <a href="https://github.com/Pedro-Murilo/">
-  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
-</a>
-
-<a href="https://github.com/Pedro-Murilo/">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </a>
 
@@ -52,6 +48,10 @@
 
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pedro-Murilo/">
+  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
