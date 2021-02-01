@@ -20,11 +20,11 @@
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
-  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
@@ -47,10 +47,6 @@
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pedro-Murilo/">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
 </a>
 
@@ -60,6 +56,10 @@
 
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pedro-Murilo/">
+  <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </a>
 
 ---
