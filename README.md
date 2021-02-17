@@ -89,4 +89,6 @@
 
 > Netlify: https://autumn-pedro.netlify.app/
 
+> Repository: https://github.com/Pedro-Murilo/autumn/
+
 <p align="center"><img src="https://github.com/Pedro-Murilo/autumn/blob/main/.github/autumn-vid.gif" alt="Autumn gif"/></p>
