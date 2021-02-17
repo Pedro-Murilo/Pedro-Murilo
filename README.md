@@ -82,3 +82,8 @@
 <a href="https://github.com/Pedro-Murilo/">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&theme=blue-green&hide_border=true" alt="Top Languages Pedro-Murilo" />
 </a>
+
+
+---
+<h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
+<p align="center"><img src="https://github.com/Pedro-Murilo/autumn/blob/main/.github/autumn-vid.gif" alt="Autumn gif"/></p>
