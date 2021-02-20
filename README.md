@@ -80,7 +80,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=DEG,222,B22222&text_color=000&title_color=FF8C00&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues" alt="Github Stats Pedro-Murilo" />
 </a>
 <a href="https://github.com/Pedro-Murilo/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&theme=blue-green&hide_border=true" alt="Top Languages Pedro-Murilo" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&hide_border=true&bg_color=DEG,B22222,222&text_color=000&title_color=000" alt="Top Languages Pedro-Murilo" />
 </a>
 
 
