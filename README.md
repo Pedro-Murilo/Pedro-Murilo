@@ -87,8 +87,6 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> Netlify: https://anime-manga-database.netlify.app/
+> Repository: https://github.com/Pedro-Murilo/rainday
 
-> Repository: https://github.com/yuukiasuna00/anime-manga-database
-
-<p align="center"><img src="https://github.com/yuukiasuna00/anime-manga-database/blob/main/.github/screen-1.gif" alt="Anime&Manga gif"/></p>
+<p align="center"><img src="https://github.com/Pedro-Murilo/rainday/blob/main/.github/rainday-vid.gif" alt="Rainday gif"/></p>
