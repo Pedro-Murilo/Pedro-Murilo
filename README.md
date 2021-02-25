@@ -11,7 +11,10 @@
 </a>
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- </a> 
+ </a>
+ <a href="https://github.com/Pedro-Murilo/">
+  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+</a>
 
 ---
 >### ✨ 𝑆𝑡𝑦𝑙𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠
@@ -68,10 +71,10 @@
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 </a>
 <a href="https://github.com/Pedro-Murilo/">
-  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-</a>
-<a href="https://github.com/Pedro-Murilo/">
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+<a href="https://github.com/Pedro-Murilo/"> 
+  <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 
 ---
