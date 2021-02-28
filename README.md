@@ -80,11 +80,11 @@
 ---
 >### ⭐ 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠
 <a href="https://github.com/Pedro-Murilo/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=DEG,222,B22222&text_color=000&title_color=FF8C00&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues" alt="Github Stats Pedro-Murilo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=f0dec7&text_color=000&title_color=e80000&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues" alt="Github Stats Pedro-Murilo" />
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&hide_border=true&bg_color=DEG,B22222,222&text_color=000&title_color=FF8C00" alt="Top Languages Pedro-Murilo" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=305&hide_border=true&bg_color=f0dec7&text_color=000&title_color=e80000" alt="Top Languages Pedro-Murilo" />
 </p>
 
 <p align="center">
@@ -94,6 +94,8 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> Repository: https://github.com/Pedro-Murilo/rainday
+> [Repository →](https://github.com/Pedro-Murilo/rainday)
 
-<p align="center"><img src="https://github.com/Pedro-Murilo/rainday/blob/main/.github/rainday-vid.gif" alt="Rainday gif"/></p>
+<p align="center">
+  <img src="https://github.com/Pedro-Murilo/rainday/blob/main/.github/rainday-vid.gif" alt="Rainday gif"/>
+</p>
