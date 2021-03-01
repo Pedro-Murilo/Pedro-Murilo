@@ -97,6 +97,8 @@
 
 > [Repository →](https://github.com/Pedro-Murilo/rainday)
 
+> [Vercel →](https://werpg.vercel.app/)
+
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/rainday/blob/main/.github/rainday-vid.gif" alt="Rainday gif"/>
+  <img src="https://github.com/Pedro-Murilo/werpg/blob/main/.github/werpg.gif" alt="WeRPG gif"/>
 </p>
