@@ -95,10 +95,8 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Repository →](https://github.com/Pedro-Murilo/rainday)
-
-> [Vercel →](https://werpg.vercel.app/)
+> [Repository →](https://github.com/Pedro-Murilo/twitch-ui)
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/werpg/blob/main/.github/werpg.gif" alt="WeRPG gif"/>
+  <img src="https://github.com/Pedro-Murilo/twitch-ui/blob/main/.github/twitch-ui.gif" alt="Twitch UI gif"/>
 </p>
