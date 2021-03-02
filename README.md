@@ -79,10 +79,11 @@
 
 ---
 >### ⭐ 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠
-<a href="https://github.com/Pedro-Murilo/">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=f0dec7&text_color=000&title_color=e80000&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues&card_width=450" alt="Github Stats Pedro-Murilo" />
-</a>
+</p>
 
+---
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=450&hide_border=true&bg_color=f0dec7&text_color=000&title_color=e80000" alt="Top Languages Pedro-Murilo" />
 </p>
