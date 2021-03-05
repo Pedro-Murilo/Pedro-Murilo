@@ -108,6 +108,8 @@
 
 > [Project →](https://plants-pedro.netlify.app/)
 
+<h3 align="center">Plants 🌺</h3>
+
 <p align="center">
   <img src="https://github.com/Pedro-Murilo/plants/blob/main/.github/plants-vid.gif" alt="Plants gif"/>
 </p>
