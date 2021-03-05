@@ -105,6 +105,7 @@
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
 > [Repository →](https://github.com/Pedro-Murilo/plants)
+
 > [Project →](https://plants-pedro.netlify.app/)
 
 <p align="center">
