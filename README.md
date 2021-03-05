@@ -28,6 +28,10 @@
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
+  <img alt="Greensock" src="https://img.shields.io/badge/Greensock-88CE02?style=for-the-badge&logo=greensock&logoColor=000"/>
+</a>
+
+<a href="https://github.com/Pedro-Murilo/">
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </a>
 
@@ -36,8 +40,13 @@
 </a>
 
 <a href="https://github.com/Pedro-Murilo/">
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-E500C6?style=for-the-badge&logo=framer&logoColor=000"/>
+</a>
+
+<a href="https://github.com/Pedro-Murilo/">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </a>
+
 
 ---
 >### ⚙ 𝑇𝑜𝑜𝑙𝑠 & 𝑂𝑡ℎ𝑒𝑟𝑠
