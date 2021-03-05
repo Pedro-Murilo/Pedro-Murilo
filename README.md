@@ -104,8 +104,9 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Repository →](https://github.com/Pedro-Murilo/twitch-ui)
+> [Repository →](https://github.com/Pedro-Murilo/plants)
+> [Project →](https://plants-pedro.netlify.app/)
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/twitch-ui/blob/main/.github/twitch-ui.gif" alt="Twitch UI gif"/>
+  <img src="https://github.com/Pedro-Murilo/plants/blob/main/.github/plants-vid.gif" alt="Plants gif"/>
 </p>
