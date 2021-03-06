@@ -113,12 +113,12 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Repository →](https://github.com/Pedro-Murilo/plants)
+> [Repository →](https://github.com/Pedro-Murilo/pizzajoin)
 
-> [Project →](https://plants-pedro.netlify.app/)
+> [Project →](https://pizzajoin-pedro.netlify.app/)
 
-<h3 align="center">Plants 🌺</h3>
+<h3 align="center">PizzaJoin 🍕</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/plants/blob/main/.github/plants-vid.gif" alt="Plants gif"/>
+  <img src="https://github.com/Pedro-Murilo/pizzajoin/blob/main/.github/pizzajoin-vid.gif" alt="Pizzajoin gif"/>
 </p>
