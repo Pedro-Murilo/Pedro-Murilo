@@ -97,18 +97,30 @@
 </p>
 
 ---
-> Languages
+>### Languages
 
+<details>
+  <summary>Language stats</summary>
+  </br>
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=450&hide_border=true&bg_color=f0dec7&text_color=000&title_color=e80000" alt="Top Languages Pedro-Murilo" />
 </p>
 
----
-> Streak
+</details>
 
-<p align="center">
+---
+>### Streak
+
+<details>
+  <summary>Streak stats</summary>
+  </br>
+  
+  <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Murilo&hide_border=true&background=f0dec7&ring=ed0000&sideNums=f58f22&currStreakNum=e80000" alt="Github Streak Pedro Murilo" />
 </p>
+  
+</details>
+
 
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
