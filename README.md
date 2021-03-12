@@ -78,14 +78,18 @@
 ---
 >### 📒 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔
 <a href="https://github.com/Pedro-Murilo/"> 
-  <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/>
+</a>
+<a href="https://github.com/Pedro-Murilo/">
+  <img alt="Testing Library" src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=fff" />
+</a>
+<a href="https://github.com/Pedro-Murilo/">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff" />
 </a>
 <a href="https://github.com/Pedro-Murilo/">
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
-<a href="https://github.com/Pedro-Murilo/"> 
-  <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</a>
+
 
 ---
 >### ⭐ 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠
