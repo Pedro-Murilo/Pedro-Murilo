@@ -129,16 +129,6 @@
 </p>
 
 
-```jsx
-
-const Languages = {
-  languages: ['HTML5', 'Javascript'],
-  frameworks: ['ReactJS', 'NextJS'],
-}
-
-
-```
-
 
 
 
