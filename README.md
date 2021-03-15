@@ -127,3 +127,21 @@
 <p align="center">
   <img src="https://github.com/Pedro-Murilo/pizzajoin/blob/main/.github/pizzajoin-vid.gif" alt="Pizzajoin gif"/>
 </p>
+
+
+```jsx
+
+const Languages = {
+  languages: ['HTML5', 'Javascript'],
+  frameworks: ['ReactJS', 'NextJS'],
+}
+
+
+```
+
+
+
+
+
+
+
