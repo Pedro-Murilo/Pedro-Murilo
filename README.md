@@ -97,7 +97,7 @@
 > All Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=f0dec7&text_color=000&title_color=e80000&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues&card_width=450" alt="Github Stats Pedro-Murilo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=f0dec7&text_color=000&title_color=e80000&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues&card_height=300" alt="Github Stats Pedro-Murilo" />
 </p>
 
 ---
