@@ -94,8 +94,6 @@
 ---
 >### ⭐ 𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑠
 
-> All Stats
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Murilo&count_private=true&bg_color=f0dec7&text_color=000&title_color=e80000&hide_border=true&line_height=24&show_icons=true&icon_color=FF0000&custom_title=Stats&hide=issues&card_height=300" alt="Github Stats Pedro-Murilo" />
 </p>
@@ -103,27 +101,18 @@
 ---
 >### Languages
 
-<details>
-  <summary>Language stats</summary>
-  </br>
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Murilo&hide=php,handlebars&langs_count=7&layout=compact&card_width=450&hide_border=true&bg_color=f0dec7&text_color=000&title_color=e80000" alt="Top Languages Pedro-Murilo" />
 </p>
 
-</details>
 
 ---
 >### Streak
 
-<details>
-  <summary>Streak stats</summary>
-  </br>
-  
-  <p align="center">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Murilo&hide_border=true&background=f0dec7&ring=ed0000&sideNums=f58f22&currStreakNum=e80000" alt="Github Streak Pedro Murilo" />
 </p>
-  
-</details>
+
 
 
 ---
