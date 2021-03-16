@@ -1,8 +1,8 @@
 ```jsx
    const WhoIAm = {
-    name: 'Pedro Murilo',
-    study: 'I'm currently studying front-end! ✨',
-    love: 'Programing, design and games 🎮'
+      name: 'Pedro Murilo',
+      study: 'I'm currently studying front-end! ✨',
+      love: 'Programing, design and games 🎮'
    }
 ```
 
