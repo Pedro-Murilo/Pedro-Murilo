@@ -118,14 +118,14 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Repository →](https://github.com/Pedro-Murilo/pizzajoin)
+> [Repository →](https://github.com/Pedro-Murilo/stripe-menu)
 
-> [Project →](https://pizzajoin-pedro.netlify.app/)
+> [Project →](https://stripe-menu-pedro.netlify.app/)
 
-<h3 align="center">PizzaJoin 🍕</h3>
+<h3 align="center">Stripe Menu 🔵</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/pizzajoin/blob/main/.github/pizzajoin-vid.gif" alt="Pizzajoin gif"/>
+  <img src="https://github.com/Pedro-Murilo/stripe-menu/blob/main/.github/stripe-menu-vid.gif" alt="Stripe menu gif"/>
 </p>
 
 
