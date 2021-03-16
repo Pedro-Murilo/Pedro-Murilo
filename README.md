@@ -1,11 +1,11 @@
 ```jsx
    const WhoIAm = {
-      name: 'Pedro Murilo',
-      study: 'I'm currently studying front-end! ✨',
-      love: 'Programing, design and games 🎮'
-   }
+      name: "Pedro",
+      age: "19",
+      study: "I'm currently studying front-end! ✨",
+      love: "Programing, design and games 🎮"
+   };
 ```
-
 
 ---
 >### ☄ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠
