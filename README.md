@@ -12,13 +12,13 @@
 
 <p align="center">
 
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img width="75px"  alt="Typescript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/typescript-icon.svg" />
 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img width="75px" alt="JavaScript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/js-icon.svg"/>
 
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img width="75px" alt="React JS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/react-icon.svg" />
 
-  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img width="75px" alt="Next JS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/nextjs-icon.svg"/>
 
 </p>
 
@@ -27,19 +27,13 @@
 
 <p align="center">
 
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img width="75px" alt="CSS3" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/css-icon.svg" />
 
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img width="75px" alt="SASS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/sass-icon.svg"/>
 
-  <img alt="Greensock" src="https://img.shields.io/badge/Greensock-88CE02?style=for-the-badge&logo=greensock&logoColor=000"/>
+  <img width="75px" alt="Styled Components" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/styled-components-icon.svg" />
 
-  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-
-   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=000" />
-
-  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-E500C6?style=for-the-badge&logo=framer&logoColor=000"/>
-
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img width="75px" alt="Framer Motion" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/framer-motion-icon.svg"/>
 
 </p>
 
@@ -49,17 +43,13 @@
 
 <p align="center">
 
-  <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-%23323330.svg?&style=for-the-badge&logo=manjaro&logoColor=35BF5C" />
+  <img width="75px" alt="Manjaro" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/manjaro-icon.svg" />
 
-  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img width="75px"  alt="Figma" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/figma-icon.svg"/>
 
-  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+  <img width="75px" alt="Firebase" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/firebase-icon.svg"/>
 
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img width="75px" alt="Visual Studio Code" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/vscode-icon.svg"/>
 
 </p>
 
@@ -68,13 +58,11 @@
 
 <p align="center">
 
-  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff"/>
+  <img width="75px" alt="Storybook" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/storybook-icon.svg"/>
 
-  <img alt="Testing Library" src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=fff" />
+  <img width="75px"  alt="Testing Library" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/testing-library-icon.svg" />
 
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff" />
-
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img width="75px"  alt="Jest" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/jest-icon.svg" />
 
 </p>
 
