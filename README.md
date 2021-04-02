@@ -81,7 +81,7 @@
 <h3 align="center">Portfólio ✨</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/portfolio/blob/main/.github/portfolio.gif" alt="Portfólio gif"/>
+  <img src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/portfolio.gif" alt="Portfólio gif"/>
 </p>
 
 
