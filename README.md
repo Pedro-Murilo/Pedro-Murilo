@@ -76,14 +76,12 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Repository →](https://github.com/Pedro-Murilo/stripe-menu)
+> [Project →](https://pedro-murilo.vercel.app/)
 
-> [Project →](https://stripe-menu-pedro.netlify.app/)
-
-<h3 align="center">Stripe Menu 🔵</h3>
+<h3 align="center">Portfólio ✨</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/stripe-menu/blob/main/.github/stripe-menu-vid.gif" alt="Stripe menu gif"/>
+  <img src="https://github.com/Pedro-Murilo/portfolio/blob/main/.github/portfolio.gif" alt="Portfólio gif"/>
 </p>
 
 
