@@ -43,7 +43,7 @@
 
 <p align="center">
 
-  <img width="75px" alt="Manjaro" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/manjaro-icon.svg" />
+  <img width="75px" alt="Ubuntu" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/ubuntu-icon.svg" />
 
   <img width="75px"  alt="Figma" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/figma-icon.svg"/>
 
