@@ -12,7 +12,7 @@
 ---
 <h3 align="center">☄ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠<h3>
 
-<p align="left">
+<p align="center">
 
   <img width="40px"  alt="Typescript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/typescript-icon.svg" />
 
@@ -28,7 +28,7 @@
 ---
 <h3 align="center">✨ 𝑆𝑡𝑦𝑙𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠</h3>
 
-<p align="left">
+<p align="center">
 
   <img width="40px" alt="CSS3" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/css-icon.svg" />
 
@@ -43,7 +43,7 @@
 ---
 <h3 align="center">⚙ 𝑇𝑜𝑜𝑙𝑠 & 𝑂𝑡ℎ𝑒𝑟𝑠</h3>
 
-<p align="left">
+<p align="center">
 
   <img width="40px" alt="Ubuntu" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/ubuntu-icon.svg" />
   <img width="40px"  alt="Figma" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/figma-icon.svg"/>
