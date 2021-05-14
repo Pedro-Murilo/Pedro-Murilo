@@ -7,7 +7,7 @@
    };
 ```
 
-<img  align="right" width="450px" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/solar-system.gif" alt="Gif with technologies in a solar system" />
+<img  align="right" width="400px" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/solar-system.gif" alt="Gif with technologies in a solar system" />
 
 ---
 <h3 align="center">☄ 𝑇𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠</h3>
