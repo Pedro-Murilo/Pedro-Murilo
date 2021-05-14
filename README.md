@@ -46,15 +46,14 @@
 <p align="center">
 
   <img width="40px" alt="Ubuntu" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/ubuntu-icon.svg" />
+  
   <img width="40px"  alt="Figma" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/figma-icon.svg"/>
 
 
   <img width="40px" alt="Firebase" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/firebase-icon.svg"/>
-  <img width="40px"  alt="Typescript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/typescript-icon.svg" />
-
 
   <img width="40px" alt="Visual Studio Code" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/vscode-icon.svg"/>
-  <img width="40px" alt="JavaScript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/js-icon.svg"/>
+
 
 </p>
 
