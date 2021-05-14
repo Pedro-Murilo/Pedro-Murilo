@@ -7,7 +7,7 @@
    };
 ```
 
-<img  align="right" width="400px" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/solar-system.gif" alt="Gif with technologies in a solar system" />
+<img  align="right" width="450px" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/solar-system.gif" alt="Gif with technologies in a solar system" />
 
 ---
 <h3 align="center">☄ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠<h3>
@@ -49,11 +49,9 @@
   
   <img width="40px"  alt="Figma" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/figma-icon.svg"/>
 
-
   <img width="40px" alt="Firebase" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/firebase-icon.svg"/>
 
   <img width="40px" alt="Visual Studio Code" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/vscode-icon.svg"/>
-
 
 </p>
 
