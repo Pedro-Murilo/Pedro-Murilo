@@ -43,7 +43,7 @@
 
 <p align="center">
 
-  <img width="75px" alt="Manjaro" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/manjaro-icon.svg" />
+  <img width="75px" alt="Ubuntu" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/ubuntu-icon.svg" />
 
   <img width="75px"  alt="Figma" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/figma-icon.svg"/>
 
@@ -76,12 +76,14 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Project →](https://pedro-murilo.vercel.app/)
+> [Project →](https://tomb-raider-pedro.netlify.app/)
 
-<h3 align="center">Portfólio ✨</h3>
+> [Repository →](https://github.com/Pedro-Murilo/tomb-raider)
+
+<h3 align="center">Tomb Raider 🎮</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/portfolio.gif" alt="Portfólio gif"/>
+  <img src="https://github.com/Pedro-Murilo/tomb-raider/blob/main/.github/tomb-raider-vid.gif" alt="Tomb Raider Final Project Gif"/>
 </p>
 
 
