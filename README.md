@@ -76,14 +76,13 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Project →](https://tomb-raider-pedro.netlify.app/)
+> [Project →](https://www.figma.com/file/3kh9zt5OKNAf8LnqpuzehR/dresswell?node-id=0%3A1)
 
-> [Repository →](https://github.com/Pedro-Murilo/tomb-raider)
 
-<h3 align="center">Tomb Raider 🎮</h3>
+<h3 align="center">DressWell 👗</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/tomb-raider/blob/main/.github/tomb-raider-vid.gif" alt="Tomb Raider Final Project Gif"/>
+  <img src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/dresswell.gif" alt="A gif from my last project. DressWell, a clothes store"/>
 </p>
 
 
