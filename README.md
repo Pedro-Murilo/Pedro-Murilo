@@ -7,62 +7,51 @@
    };
 ```
 
+<img  align="right" width="450px" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/solar-system.gif" alt="Gif with technologies in a solar system" />
+
 ---
-<h3 align="center">☄ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠</h3>
+<h3 align="center">☄ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠<h3>
 
 <p align="center">
 
-  <img width="75px"  alt="Typescript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/typescript-icon.svg" />
+  <img width="40px"  alt="Typescript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/typescript-icon.svg" />
 
-  <img width="75px" alt="JavaScript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/js-icon.svg"/>
+  <img width="40px" alt="JavaScript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/js-icon.svg"/>
 
-  <img width="75px" alt="React JS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/react-icon.svg" />
+  <img width="40px" alt="React JS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/react-icon.svg" />
 
-  <img width="75px" alt="Next JS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/nextjs-icon.svg"/>
-
+  <img width="40px" alt="Next JS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/nextjs-icon.svg"/>
+  
 </p>
+
 
 ---
 <h3 align="center">✨ 𝑆𝑡𝑦𝑙𝑒𝑠 / 𝐹𝑟𝑎𝑚𝑒𝑤𝑜𝑟𝑘𝑠</h3>
 
 <p align="center">
 
-  <img width="75px" alt="CSS3" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/css-icon.svg" />
+  <img width="40px" alt="CSS3" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/css-icon.svg" />
 
-  <img width="75px" alt="SASS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/sass-icon.svg"/>
+  <img width="40px" alt="SASS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/sass-icon.svg"/>
 
-  <img width="75px" alt="Styled Components" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/styled-components-icon.svg" />
+  <img width="40px" alt="Styled Components" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/styled-components-icon.svg" />
 
-  <img width="75px" alt="Framer Motion" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/framer-motion-icon.svg"/>
+  <img width="40px" alt="Framer Motion" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/framer-motion-icon.svg"/>
 
 </p>
-
 
 ---
 <h3 align="center">⚙ 𝑇𝑜𝑜𝑙𝑠 & 𝑂𝑡ℎ𝑒𝑟𝑠</h3>
 
 <p align="center">
 
-  <img width="75px" alt="Ubuntu" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/ubuntu-icon.svg" />
+  <img width="40px" alt="Ubuntu" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/ubuntu-icon.svg" />
+  
+  <img width="40px"  alt="Figma" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/figma-icon.svg"/>
 
-  <img width="75px"  alt="Figma" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/figma-icon.svg"/>
+  <img width="40px" alt="Firebase" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/firebase-icon.svg"/>
 
-  <img width="75px" alt="Firebase" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/firebase-icon.svg"/>
-
-  <img width="75px" alt="Visual Studio Code" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/vscode-icon.svg"/>
-
-</p>
-
----
-<h3 align="center">📒 𝑆𝑡𝑢𝑑𝑦𝑖𝑛𝑔</h3>
-
-<p align="center">
-
-  <img width="75px" alt="Storybook" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/storybook-icon.svg"/>
-
-  <img width="75px"  alt="Testing Library" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/testing-library-icon.svg" />
-
-  <img width="75px"  alt="Jest" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/jest-icon.svg" />
+  <img width="40px" alt="Visual Studio Code" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/vscode-icon.svg"/>
 
 </p>
 
