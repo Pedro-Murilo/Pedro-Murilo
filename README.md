@@ -65,13 +65,13 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Project →](https://www.figma.com/file/3kh9zt5OKNAf8LnqpuzehR/dresswell?node-id=0%3A1)
+> [Project →](https://www.figma.com/proto/zm9oQ4ujRi1HXIWUt6a0gD/candelivery?node-id=2%3A2&scaling=min-zoom)
 
 
-<h3 align="center">DressWell 👗</h3>
+<h3 align="center">Candelivery 🍰</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/dresswell.gif" alt="A gif from my last project. DressWell, a clothes store"/>
+  <img src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/candelivery.gif" alt="A gif from my last project. Candelivery, a candy store"/>
 </p>
 
 
