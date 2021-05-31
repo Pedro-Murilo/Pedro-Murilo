@@ -65,7 +65,11 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Project →](https://www.figma.com/proto/zm9oQ4ujRi1HXIWUt6a0gD/candelivery?node-id=2%3A2&scaling=min-zoom)
+> [Prototype →](https://www.figma.com/proto/zm9oQ4ujRi1HXIWUt6a0gD/candelivery?node-id=2%3A2&scaling=min-zoom)
+   
+> [Deploy →](https://candelivery.netlify.app/)
+   
+> [Repository →](https://github.com/Pedro-Murilo/candelivery)
 
 
 <h3 align="center">Candelivery 🍰</h3>
