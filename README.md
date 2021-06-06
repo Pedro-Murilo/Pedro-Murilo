@@ -65,17 +65,15 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Prototype →](https://www.figma.com/proto/zm9oQ4ujRi1HXIWUt6a0gD/candelivery?node-id=2%3A2&scaling=min-zoom)
+> [Prototype →](https://www.figma.com/file/ZtRFG8nMRgsBwI0mfVis7l/dailyui?node-id=1%3A12)
    
-> [Deploy →](https://candelivery.netlify.app/)
-   
-> [Repository →](https://github.com/Pedro-Murilo/candelivery)
+> [Repository →](https://github.com/Pedro-Murilo/dailyui/tree/main/dailyui/signup)
 
 
-<h3 align="center">Candelivery 🍰</h3>
+<h3 align="center">Sign up 🟢</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/candelivery.gif" alt="A gif from my last project. Candelivery, a candy store"/>
+  <img src="https://github.com/Pedro-Murilo/dailyui/blob/main/dailyui/signup/Capa.png" alt="A image from my last project, a user interface for Sign up"/>
 </p>
 
 
