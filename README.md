@@ -65,15 +65,15 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Prototype →](https://www.figma.com/file/ZtRFG8nMRgsBwI0mfVis7l/dailyui?node-id=0%3A1)
+> [Prototype →](https://www.figma.com/proto/ZtRFG8nMRgsBwI0mfVis7l/dailyui?node-id=22%3A3&scaling=min-zoom&page-id=22%3A2)
    
-> [Repository →](https://github.com/Pedro-Murilo/dailyui/tree/main/dailyui/checkout)
+> [Repository →](https://github.com/Pedro-Murilo/dailyui/tree/main/dailyui/landing-page)
 
 
-<h3 align="center">Checkout 💲</h3>
+<h3 align="center">ModernGout ⚫</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/dailyui/blob/main/dailyui/checkout/checkout-thumbnail.png" alt="A image from my last project, a user interface for Checkout"/>
+  <img src="https://github.com/Pedro-Murilo/dailyui/blob/main/dailyui/landing-page/.github/moderngout.gif" alt="A image from my last project, a user interface for a design agency named 'ModernGout'"/>
 </p>
 
 
