@@ -65,12 +65,12 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Prototype →](https://www.figma.com/proto/ZtRFG8nMRgsBwI0mfVis7l/dailyui?node-id=66%3A3&scaling=min-zoom)
+> [Prototype →](https://www.figma.com/proto/ZtRFG8nMRgsBwI0mfVis7l/dailyui?node-id=207%3A4&scaling=scale-down&page-id=207%3A2)
 
-<h3 align="center">Calculator ⚫</h3>
+<h3 align="center">Music Player 🎵</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/dailyui/blob/main/.github/calculator-thumbnail.png" alt="A image from my last project, a user interface for a calculator"/>
+  <img src="https://github.com/Pedro-Murilo/dailyui/blob/main/.github/musicplayer-thumbnail.png" alt="A image from my last project, a user interface for a Music Player"/>
 </p>
 
 
