@@ -65,12 +65,12 @@
 ---
 <h3 align="center">🌟 𝐿𝑎𝑠𝑡 𝒫𝑟𝑜𝑗𝑒𝑐𝑡</h3>
 
-> [Prototype →](https://www.figma.com/proto/ZtRFG8nMRgsBwI0mfVis7l/dailyui?node-id=207%3A4&scaling=scale-down&page-id=207%3A2)
+> [Prototype →](https://www.figma.com/proto/ZtRFG8nMRgsBwI0mfVis7l/dailyui?node-id=260%3A0&scaling=scale-down&page-id=258%3A2)
 
-<h3 align="center">Music Player 🎵</h3>
+<h3 align="center">Social Share 🌐</h3>
 
 <p align="center">
-  <img src="https://github.com/Pedro-Murilo/dailyui/blob/main/.github/musicplayer-thumbnail.png" alt="A image from my last project, a user interface for a Music Player"/>
+  <img src="https://github.com/Pedro-Murilo/dailyui/blob/main/.github/social-share-thumbnail.png" alt="A image from my last project, a user interface for a Social Share"/>
 </p>
 
 
