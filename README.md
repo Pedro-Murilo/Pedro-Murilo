@@ -1,9 +1,9 @@
 ```jsx
    const WhoIAm = {
       name: "Pedro",
-      age: 19,
-      study: "I'm currently studying front-end! ✨",
-      love: "Programing, design and games 🎮"
+      age: 21,
+      study: "I'm currently studying and working as a UI Designer! ✨",
+      love: "Design, programming and games 🎮"
    };
 ```
 
