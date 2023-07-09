@@ -1,7 +1,7 @@
 ```jsx
    const WhoIAm = {
       name: "Pedro",
-      age: 21,
+      age: 22,
       study: "I'm currently studying and working as a UI Designer! ✨",
       love: "Design, programming and games 🎮"
    };
